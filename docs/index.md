@@ -11,7 +11,7 @@ hero:
       link: /guide/getting-started
     - theme: alt
       text: Submit Idea
-      link: mailto:your-email@example.com?subject=Idea%20for%20Archery%20Event%20App
+      link: mailto:archery.event.management@gmail.com?subject=Idea%20for%20Archery%20Event%20App
 
 features:
   - title: Comprehensive Guides

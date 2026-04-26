@@ -30,6 +30,9 @@ export default defineConfig({
             text: 'User Guide',
             items: [
               { text: 'Getting Started', link: '/guide/getting-started' },
+              { text: 'Event Management', link: '/guide/event-management' },
+              { text: 'Competition Setup', link: '/guide/competition-setup' },
+              { text: 'Scoring Workflow', link: '/guide/scoring-workflow' },
             ]
           }
         ]
@@ -50,6 +53,9 @@ export default defineConfig({
             text: 'Hướng dẫn sử dụng',
             items: [
               { text: 'Bắt đầu', link: '/vi/guide/getting-started' },
+              { text: 'Quản lý sự kiện', link: '/vi/guide/event-management' },
+              { text: 'Thiết lập thi đấu', link: '/vi/guide/competition-setup' },
+              { text: 'Quy trình ghi điểm', link: '/vi/guide/scoring-workflow' },
             ]
           }
         ]
